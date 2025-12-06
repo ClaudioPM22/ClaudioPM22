@@ -5,7 +5,7 @@
 
 - 💬 Preguntame sobre **JavaScript, Node.js, Python y Arduino**
 
-- 📫 Como contactarme **cpinillam2340@gmail.com**
+- 📫 Como contactarme **cpinillam2340@gmail.com** o **www.linkedin.com/in/claudio-pinilla-82b332210**
 
 - 📄 Mis experiencias [He trabajado en proyectos de software con equipos multidiciplinarios dentro de la universidad. Mi proyecto de titulo fue relacionado con el ámbito del IoT y realice mi práctica profesional en GTD-Telsur, donde realice tareas como procesamiento de datos y creación de dashboard para la toma de decisiones.](He trabajado en proyectos de software con equipos multidiciplinarios dentro de la universidad. Mi proyecto de titulo fue relacionado con el ámbito del IoT y realice mi práctica profesional en GTD-Telsur, donde realice tareas como procesamiento de datos y creación de dashboard para la toma de decisiones.)
 
