@@ -3,7 +3,7 @@
 
 - 🔭 Estoy trabajando como freelance [ProyectoMecanico](https://github.com/ClaudioPM22/ProyectoMecanico)
 
-- 💬 Preguntame sobre **JavaScript, Node.js, Python y Arduino**
+- 💬 Preguntame sobre **JavaScript, Python y Arduino**
 
 - 📫 Como contactarme **cpinillam2340@gmail.com** o **www.linkedin.com/in/claudio-pinilla-82b332210**
 
