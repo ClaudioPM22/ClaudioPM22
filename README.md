@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Claudio Pinilla</h1>
-<h3 align="center">Un interesado en el desarrollo de Software e IoT.</h3>
+<h3 align="center">Un interesado en el desarrollo de Software, IA y Ciberseguridad.</h3>
 
 - 🔭 Estoy trabajando como freelance [ProyectoMecanico](https://github.com/ClaudioPM22/ProyectoMecanico)
 
