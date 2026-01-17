@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Claudio Pinilla</h1>
 <h3 align="center">Un interesado en el desarrollo de Software, IA y Ciberseguridad.</h3>
 
-- 🔭 Estoy trabajando como freelance [ProyectoMecanico](https://github.com/ClaudioPM22/ProyectoMecanico)
+- 🔭 Estoy trabajando mis conocimientos en NodeJS y fortaleciendo lo aprendido en Python.
 
 - 💬 Preguntame sobre **JavaScript, Python y Arduino**
 
